@@ -2,11 +2,9 @@ import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faFacebookF,
-  faTwitter,
   faLinkedin,
   faInstagram,
 } from "@fortawesome/free-brands-svg-icons";
-import { Link } from "react-scroll";
 import "../../Styles/Footer.css"; // Import the CSS file
 import "../../App.css";
 
