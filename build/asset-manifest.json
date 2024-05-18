@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Hedj/static/css/main.6662ab65.css",
-    "main.js": "/Hedj/static/js/main.beffdd0c.js",
+    "main.css": "/Hedj/static/css/main.fc3b2417.css",
+    "main.js": "/Hedj/static/js/main.f1dcb397.js",
     "static/js/453.a890f012.chunk.js": "/Hedj/static/js/453.a890f012.chunk.js",
     "static/media/7.jpg": "/Hedj/static/media/7.d90af917432088fb89d3.jpg",
     "static/media/23.jpg": "/Hedj/static/media/23.798baa9725d625af037b.jpg",
@@ -17,14 +17,14 @@
     "static/media/Aeonik-Thin.otf": "/Hedj/static/media/Aeonik-Thin.5f053c6b6c30034467b1.otf",
     "static/media/maram.jpg": "/Hedj/static/media/maram.9915bb82bd7539351fc0.jpg",
     "static/media/Beverly.otf": "/Hedj/static/media/Beverly.be4abf25b0a091dbd612.otf",
-    "static/media/simple.jpg.jpg": "/Hedj/static/media/simple.jpg.4ed492ec0262ba7ffb56.jpg",
+    "static/media/simple.jpg": "/Hedj/static/media/simple.4ed492ec0262ba7ffb56.jpg",
     "index.html": "/Hedj/index.html",
-    "main.6662ab65.css.map": "/Hedj/static/css/main.6662ab65.css.map",
-    "main.beffdd0c.js.map": "/Hedj/static/js/main.beffdd0c.js.map",
+    "main.fc3b2417.css.map": "/Hedj/static/css/main.fc3b2417.css.map",
+    "main.f1dcb397.js.map": "/Hedj/static/js/main.f1dcb397.js.map",
     "453.a890f012.chunk.js.map": "/Hedj/static/js/453.a890f012.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6662ab65.css",
-    "static/js/main.beffdd0c.js"
+    "static/css/main.fc3b2417.css",
+    "static/js/main.f1dcb397.js"
   ]
 }
